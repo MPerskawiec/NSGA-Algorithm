@@ -1,5 +1,5 @@
 # NSGA-Algorithm
-The aim of the project was to find the minimum of a two-criteria task, which is a non-linear function without constraints. The task required implementing the NSGA method.
+The goal of the project was to find the minimum of a two-criteria task, which is a non-linear function without constraints. The task required implementing the NSGA method.
 
 For the possibility of using the implemented algorithm without the need for code modification, an application has been developed. In the window displayed by the application, three distinct sections are highlighted:
 - Entering algorithm parameters,
